@@ -1,11 +1,10 @@
 Easy to understand
-PIck up and play
+Quick to Play
 	Dungeon Crawler
 	Roguelite
+Bring Players together
 
-[[Game Cycle]]:
-	[[Prepare]]
-	[[Delve]]
-	[[Explore]]
-	[[Gather]]
-	[[Town]]
+[[Game Cycle]]
+[[Actions]]
+[[The Dice]]
+[[Fighting]]
