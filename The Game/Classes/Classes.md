@@ -1,0 +1,11 @@
+
+- [[Alchemist]] - Can use healing items more - Ability Craft: allows you to make potions in the dungeon if you have the necessary materials - Fortitude
+- [[Bard]] - able to make magical music - Ability Invigorate: Allows players to move 1.5 times their movement - Fortitude    
+- [[Brute]] - barbarian-style - Ability Endurance allows you to half damage to yourself for 1 attack(rounded down) - Constitution
+- [[Cleric]] - not a healer, magic based on their faith - Ability Pray: Allows you to reroll 1 dice - Wisdom
+- [[Knight]] - fighter, all-round - Ability Art of the Blade: allows you to disarm an opponent - Dexterity or Strength
+- [[Mage]] - spellcasters - Ability: Identify(arcane): Allows you to identify one item in a dungeon - Perception
+- [[Penitent]] - Frontline Fighter - Ability The Impure - Sacrifice 1 level of Health to gain advantage on your damage roll - Constitution
+- [[Ranger]] - shooty-boi - Ability Track: DM/Guide has to tell you what monsters are nearby based on tracks - Perception
+- [[Thief]] - a rogue starter - Ability Pick Lock: allows you to attempt to open a door without a key - Dexterity
+- [[Witch]] - sorcerer types - Abilty Spirit Seer: Allows you to speak to Spirits of old - Wisdom

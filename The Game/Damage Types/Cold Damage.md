@@ -1,0 +1,1 @@
+If the player fails a CON save, they become [[frozen]]

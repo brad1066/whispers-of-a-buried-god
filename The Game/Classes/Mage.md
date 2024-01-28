@@ -1,0 +1,1 @@
+Access from all spell list
